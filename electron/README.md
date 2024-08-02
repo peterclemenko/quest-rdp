@@ -1,7 +1,7 @@
-### 配信用ツール
-Electron製
+### Streaming tools
+Made with Electron
 
-| OS | スクリーンシェア | 音声共有 | 遠隔操作 |
+| OS | Screen sharing | Audio sharing | Remote control |
 ----|----|----|----
 | Windows | ○ | ○ | ○ |
 | Mac | ○ | ☓ | ○ |
