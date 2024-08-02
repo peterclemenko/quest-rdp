@@ -1,7 +1,7 @@
 # WIP
 
 # quest-rdp  
-QuestView(https://github.com/shinyoshiaki/quest-view) を使って開発中のOculusQuest向けリモートデスクトップアプリ
+QuestView(https://github.com/shinyoshiaki/quest-view) A remote desktop app for Oculus Quest being developed using questview
 
 # depend
 quest-view : https://github.com/shinyoshiaki/quest-view  
@@ -11,14 +11,14 @@ Utf8Json : https://github.com/neuecc/Utf8Json
 VRkeys : https://github.com/campfireunion/VRKeys  
 VrGrabber : https://github.com/hecomi/VrGrabber
 
-# 配信ソフト 
+# Distribution software 
 https://github.com/shinyoshiaki/quest-view/releases/download/0.0.2/streamer.zip
 
-# ブランチ運用
+# Branch Operations
 git-flow  
-master : ドキュメンテーション、ビルド、デプロイ    
-develop : 開発ブランチ  
-feature/* : 新機能実装  
-maintain/* : 修正、改善  
-featureとmaintainはdevelopにマージ  
-developはmasterにマージ
+master : Documentation, Building and Deploying   
+develop : Development Branch 
+feature/* : New feature implementation
+maintain/* : Correction, improvement 
+feature and maintain are merged into develop
+develop is merged into master
